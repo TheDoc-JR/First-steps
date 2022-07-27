@@ -19,9 +19,6 @@ def wrong_option():
 
 
 
-
-
-
 def new_patient():
     name = input('Please enter your name: ')
     last_name = input('Please enter your last name: ')
