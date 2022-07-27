@@ -1,4 +1,4 @@
-class Data:
+class Data: # Patients database
     record = {}
 
 
